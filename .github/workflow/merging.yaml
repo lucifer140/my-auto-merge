@@ -3,7 +3,6 @@ name: 'Nightly Merge'
 on:
   push:
     branches: [ main, developer ]
-
 jobs:
   nightly-merge:
 
